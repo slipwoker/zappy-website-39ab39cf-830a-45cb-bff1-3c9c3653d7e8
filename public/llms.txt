@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות כיפות אונליין ישראל עם מגוון עצום של סגנונות, חומרים ועיצובים. כיפות לכל אירוע ולכל גיל — איכות ללא פשרות, משלוח מהיר לכל הארץ. הזמינו עכשיו!
+
+### אומנות
+https://example.com/craftsmanship
+כל כיפה היא יצירת אומנות. גלו את הטכניקות המסורתיות והחומרים הפרימיום שהופכים כל כיפה לפריט ייחודי שמלווה אתכם לאורך כל החיים. אומנות אמיתית בכל תפר.
+
+### אודות
+https://example.com/about
+N&amp;M כיפות נוסדה מתוך אהבה למסורת ולעיצוב יהודי. הכירו את הצוות שמאחורי הכיפות האהובות בישראל, את הערכים שלנו ואת המחויבות שלנו לאיכות ולשירות אישי חם.
+
+### צור קשר
+https://example.com/contact
+רוצים כיפות לחתונה בהזמנה או כיפות לבר מצווה מיוחדות? צרו איתנו קשר עוד היום לייעוץ אישי חינם, קבלת הצעת מחיר ועיצוב כיפה שתשאיר רושם שלא יישכח לעולם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - N&M כיפות
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - N&M כיפות
+
+### Category
+https://example.com/category/:slug
+מוצרים - N&M כיפות
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
