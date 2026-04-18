@@ -909,30 +909,10 @@
     </div>
 
     <!-- Asymmetric Grid -->
-    <div class="collections-grid" data-zappy-grid-align="start">
+    <div class="collections-grid" data-zappy-grid-align="start" data-zappy-explicit-columns="true" style="display: grid; --zappy-grid-cols: repeat(3, minmax(0, 1fr)); grid-template-columns: repeat(3, minmax(0, 1fr));">
 
       <!-- Dominant Tile (spans 2 rows) -->
-      <article class="collection-tile tile-dominant" style="background-color: rgb(245, 243, 238) !important;" data-grid-item-index="0">
-        <div class="tile-image-wrap">
-          
-          <div class="tile-overlay"></div>
-        </div>
-        <div class="tile-content">
-          <p >טקסט כאן</p><h3 class="tile-title" >כותרת משנה</h3>
-          <p class="tile-desc" >טקסט כאן</p>
-          
-        </div>
-      </article><article class="collection-tile tile-dominant" style="background-color: rgb(245, 243, 238) !important;" data-grid-item-index="1">
-        <div class="tile-image-wrap">
-          
-          <div class="tile-overlay"></div>
-        </div>
-        <div class="tile-content">
-          <p >טקסט כאן</p><h3 class="tile-title" >כותרת משנה</h3>
-          <p class="tile-desc" >טקסט כאן</p>
-          
-        </div>
-      </article><article class="collection-tile tile-dominant" data-grid-item-index="2">
+      <article class="collection-tile tile-dominant" data-grid-item-index="0">
         <div class="tile-image-wrap">
           
           <div class="tile-overlay"></div>
@@ -940,13 +920,13 @@
         <div class="tile-content">
           <p><span class="tile-tag" >חדש</span>
           </p><h3 class="tile-title" >קטיפה עשירה</h3>
-          <p class="tile-desc">מרקם רך, גימור מלכותי — לשבת ולמועד</p>
+          <p class="tile-desc" >מרקם רך, גימור מלכותי — לשבת ולמועד</p>
           
         </div>
       </article>
 
       <!-- Supporting Tiles (stacked 3) -->
-      <article class="collection-tile tile-dominant" data-grid-item-index="3">
+      <article class="collection-tile tile-dominant" data-grid-item-index="1">
         <div class="tile-image-wrap">
           
           <div class="tile-overlay"></div>
@@ -957,7 +937,7 @@
           <p class="tile-desc" >מרקם רך, גימור מלכותי — לשבת ולמועד</p>
           
         </div>
-      </article><div class="tiles-stack" data-grid-item-index="4">
+      </article><div class="tiles-stack" data-grid-item-index="2">
 
         <article class="collection-tile tile-small">
           <div class="tile-image-wrap">
